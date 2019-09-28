@@ -1,0 +1,10 @@
+D:\tarifasllamada\tarifasllamada\bin\Debug\tarifasllamada.exe.config
+D:\tarifasllamada\tarifasllamada\bin\Debug\tarifasllamada.exe
+D:\tarifasllamada\tarifasllamada\bin\Debug\tarifasllamada.pdb
+D:\tarifasllamada\tarifasllamada\obj\Debug\tarifasllamada.csprojAssemblyReference.cache
+D:\tarifasllamada\tarifasllamada\obj\Debug\tarifasllamada.Form1.resources
+D:\tarifasllamada\tarifasllamada\obj\Debug\tarifasllamada.Properties.Resources.resources
+D:\tarifasllamada\tarifasllamada\obj\Debug\tarifasllamada.csproj.GenerateResource.cache
+D:\tarifasllamada\tarifasllamada\obj\Debug\tarifasllamada.csproj.CoreCompileInputs.cache
+D:\tarifasllamada\tarifasllamada\obj\Debug\tarifasllamada.exe
+D:\tarifasllamada\tarifasllamada\obj\Debug\tarifasllamada.pdb
